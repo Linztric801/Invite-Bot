@@ -1,2 +1,2 @@
-# Invite-Bot
-Bot invite 
+# Lin Bot
+Lin Bot 
